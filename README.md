@@ -10,10 +10,10 @@
 -->
 
 <p align="center">
-  <img src="docs/banner/banner.png" alt="Nobaro Mobile"/>
+  <img src="docs/banner/banner.jpg" alt="Nobaro Mobile"/>
 </p>
 
-<h1 align="center">Nobaro: Mobile</h1>
+<img src="docs/logo/favicon.png" alt="Nobaro Mobile" style="border-radius: 45%;" /><h1 align="center">Nobaro: Mobile</h1>
 
 <p align="center">
   Your digital soul, in your pocket.<br/>
