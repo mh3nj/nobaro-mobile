@@ -13,7 +13,7 @@
   <img src="doc/banner/banner.jpg" alt="Nobaro Mobile"/>
 </p>
 
-<img src="doc/logo/favicon.png" alt="Nobaro Mobile" style="border-radius: 45%;" /><h1 align="center">Nobaro: Mobile</h1>
+<h1 align="center">Nobaro: Mobile</h1><img src="doc/logo/favicon.png" alt="Nobaro Mobile" style="border-radius: 45%;" width="150px" />
 
 <p align="center">
   Your digital soul, in your pocket.<br/>
