@@ -55,14 +55,11 @@ completely offline.
 
 ## Screenshots
 
-<p align="center">
-  <img src="doc/screenshots/load.webp" alt="loading screen"/>
-  <img src="doc/screenshots/main-screen.webp" alt="main screen"/>
-  <img src="doc/screenshots/settings ad about.webp" alt="settings about"/>
-  <img src="doc/screenshots/history-log.webp" alt="history log"/>
-  <img src="doc/screenshots/entry.webp" alt="entry"/>
-  <img src="doc/screenshots/ascii arts.webp" alt="ascii arts"/>
-</p>
+| Loading Screen | Main Screen | Settings & About |
+|:--------------:|:-----------:|:----------------:|
+| <img src="doc/screenshots/load.webp" alt="loading screen" loading="lazy"> | <img src="doc/screenshots/main-screen.webp" alt="main screen" loading="lazy"> | <img src="doc/screenshots/settings ad about.webp" alt="settings about" loading="lazy"> |
+| **History Log** | **Entry** | **ASCII Arts** |
+| <img src="doc/screenshots/history-log.webp" alt="history log" loading="lazy"> | <img src="doc/screenshots/entry.webp" alt="entry" loading="lazy"> | <img src="doc/screenshots/ascii arts.webp" alt="ascii arts" loading="lazy"> |
 
 ## Video demo
 
