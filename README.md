@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="docs/banner.png" alt="Nobaro Mobile" width="720"/>
+  <img src="docs/banner/banner.png" alt="Nobaro Mobile"/>
 </p>
 
 <h1 align="center">Nobaro: Mobile</h1>
