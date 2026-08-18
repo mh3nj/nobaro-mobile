@@ -56,20 +56,18 @@ completely offline.
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/01-today.png" alt="Today screen" width="200"/>
-  <img src="docs/screenshots/02-editor.png" alt="Note editor" width="200"/>
-  <img src="docs/screenshots/03-gallery.png" alt="ASCII art gallery" width="200"/>
-  <img src="docs/screenshots/04-themes.png" alt="Theme selection" width="200"/>
+  <img src="docs/screenshots/load.webp" alt="Loading screen"/>
+  <img src="docs/screenshots/main-screen.webp" alt="Note editor"/>
+  <img src="docs/screenshots/settings ad about.webp" alt="ASCII art gallery"/>
+  <img src="docs/screenshots/history-log.webp" alt="Theme selection"/>
+  <img src="docs/screenshots/entry.webp" alt="Theme selection"/>
+  <img src="docs/screenshots/ascii arts.webp" alt="Theme selection"/>
 </p>
 
 ## Video demo
 
-<p align="center">
-  <a href="docs/videos/demo.mp4">
-    <img src="docs/screenshots/01-today.png" alt="Play the demo video" width="320"/>
-  </a><br/>
-  <em>Click the thumbnail above to watch the demo video</em>
-</p>
+[nobaro-mobile.webm](https://github.com/user-attachments/assets/a21a169a-c57d-41e7-a5a3-25077dea8fd6)
+
 
 ## Features
 
