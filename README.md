@@ -56,12 +56,12 @@ completely offline.
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/load.webp" alt="Loading screen"/>
-  <img src="docs/screenshots/main-screen.webp" alt="Note editor"/>
-  <img src="docs/screenshots/settings ad about.webp" alt="ASCII art gallery"/>
-  <img src="docs/screenshots/history-log.webp" alt="Theme selection"/>
-  <img src="docs/screenshots/entry.webp" alt="Theme selection"/>
-  <img src="docs/screenshots/ascii arts.webp" alt="Theme selection"/>
+  <img src="doc/screenshots/load.webp" alt="loading screen"/>
+  <img src="doc/screenshots/main-screen.webp" alt="main screen"/>
+  <img src="doc/screenshots/settings ad about.webp" alt="settings about"/>
+  <img src="doc/screenshots/history-log.webp" alt="history log"/>
+  <img src="doc/screenshots/entry.webp" alt="entry"/>
+  <img src="doc/screenshots/ascii arts.webp" alt="ascii arts"/>
 </p>
 
 ## Video demo
