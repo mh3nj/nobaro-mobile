@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="doc/banner/banner.jpg" alt="Nobaro Mobile"/>
+  <img src="doc/banner/banner.webp" alt="Nobaro Mobile"/>
 </p>
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
   <img src="doc/logo/favicon.png" alt="Nobaro Mobile" style="border-radius: 45px;" width="40px" height="40px">
