@@ -12,9 +12,10 @@
 <p align="center">
   <img src="doc/banner/banner.jpg" alt="Nobaro Mobile"/>
 </p>
-
-<div><h1 align="center">Nobaro: Mobile</h1><img src="doc/logo/favicon.png" alt="Nobaro Mobile" style="border-radius: 45px;" width="80px" /></div>
-
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <img src="doc/logo/favicon.png" alt="Nobaro Mobile" style="border-radius: 45px;" width="40px" height="40px">
+  <span style="font-size: 2.2em; font-weight: 600; letter-spacing: -0.5px;">Nobaro: Mobile</span>
+</p>
 <p align="center">
   Your digital soul, in your pocket.<br/>
   An offline-first journal for Android, built with Flutter.
