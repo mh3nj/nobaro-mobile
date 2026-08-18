@@ -13,7 +13,7 @@
   <img src="docs/banner.png" alt="Nobaro Mobile" width="720"/>
 </p>
 
-<h1 align="center">Nobaro — Mobile</h1>
+<h1 align="center">Nobaro: Mobile</h1>
 
 <p align="center">
   Your digital soul, in your pocket.<br/>
